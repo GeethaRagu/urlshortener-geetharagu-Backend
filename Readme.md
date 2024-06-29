@@ -1,0 +1,1 @@
+All user and url shortener functionalities are implemented through API calls.
